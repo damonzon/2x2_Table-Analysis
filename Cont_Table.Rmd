@@ -2,7 +2,7 @@
 title: "2 x 2 Table Analysis"
 author: "Patrick Kelly"
 date: "2/20/2020"
-output: html_document
+output: pdf_document
 ---
 
 [Click Here](https://select-statistics.co.uk/calculators/confidence-interval-calculator-odds-ratio/)"Odds ratio – Confidence Interval"
@@ -195,4 +195,4 @@ The four data counts represent true and false positives and true and false negat
 
 [Click Here](https://towardsdatascience.com/confusion-matrix-un-confused-1ba98dee0d7f)"Confusion Matrix"
 
-
+[Click Here](https://medium.com/@neeraj.kumar.iitg/statistical-performance-measures-12bad66694b7)"Statistical Performance Measures"
